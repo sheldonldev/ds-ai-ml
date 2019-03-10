@@ -3,7 +3,7 @@
 A statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek  
 
 
-# SORY TELLER
+# STORY TELLER
 [Amazon Polly](https://aws.amazon.com/polly/)  
 Turn text into lifelike speech using deep learning  
  
