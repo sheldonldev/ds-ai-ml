@@ -3,7 +3,7 @@
 A statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek  
 
 
-# STORY TELLER
+# PRESENTATION
 [Amazon Polly](https://aws.amazon.com/polly/)  
 Turn text into lifelike speech using deep learning  
  
@@ -20,8 +20,7 @@ Create, edit, collaborate, and present wherever you are.
 Ari uses Amazon Polly to convert your text into speech. You can then provide images or a set of HTML slides which Ari will narrate based on a script you provide. Ari uses FFmpeg to stitch together audio and images.
 
 
-
-# WRITE BOOK
+# PUBLISH
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses.
 [How to write book with mark down](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
