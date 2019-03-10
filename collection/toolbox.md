@@ -13,9 +13,14 @@ Any enditor wich can edit `.md` is OK. Such as VS Code, Sublime, Atom, Pycharm, 
 ### PROGRAMMING
 [Download R](https://cran.r-project.org/)  
 [Download RStudio](https://www.rstudio.com/products/rstudio/download/)  
+[bioconductor (For bioinformatics)](https://www.bioconductor.org/)  
+
+
+**README**
 [RStudio Tutor (PDF)](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)  
 [R packages (Book)](http://r-pkgs.had.co.nz/)  
-[bioconductor (For bioinformatics)](https://www.bioconductor.org/)  
+[R for data science](https://r4ds.had.co.nz/)
+
 
 <br>
 
@@ -31,6 +36,7 @@ Use `Git` and `GitHub` which is mentioned above.
 
 **README**  
 [How to Setup GitHub Pages (2018) | Data Science Portfolio (YouTube)](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s)  
+[YAML(Wiki)](https://en.wikipedia.org/wiki/YAML)
 
 <br>
 
@@ -39,7 +45,7 @@ Use `Git` and `GitHub` which is mentioned above.
 Turn text into lifelike speech using deep learning.  
  
 [R Markdown](https://rmarkdown.rstudio.com/)  
-Turn your analyses into high quality documents, reports, presentations and dashboards.  
+Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  
 
 [Google Slides](https://www.google.com/slides/about/) **  
 Create, edit, collaborate, and present wherever you are.  
@@ -51,6 +57,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 **README:**  
 [The future of education is plain text](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/)  
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
+[R Markdown Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)  
 
 <br>
 
