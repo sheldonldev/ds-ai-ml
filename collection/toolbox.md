@@ -12,14 +12,18 @@ Create, edit, collaborate, and present wherever you are.
 Ari uses Amazon Polly to convert your text into speech. You can then provide images or a set of HTML slides which Ari will narrate based on a script you provide. Ari uses FFmpeg to stitch together audio and images.  
 Didactr is to provide leverages the ‘ari’ package and other tools to create automated courses from slides and a script. Also, uploads these to YouTube and other servies, with the option of translation.
 
-**README**
+**README:**  
 [The future of education is plain text](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/)  
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
 
-# PUBLISH
+<br>
+
+# PUBLICATION
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses.
 [How to write book with mark down.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
+
+<br>
 
 # GETTING HELP
 [Stack Overflow](https://stackoverflow.com/)
