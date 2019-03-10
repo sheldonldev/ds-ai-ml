@@ -1,7 +1,8 @@
 [BACK](https://tane-rs.github.io//road-to-data-science)
+
 <br>
 
-# PRESENTATION
+## PRESENTATION
 [Amazon Polly](https://aws.amazon.com/polly/)  
 Turn text into lifelike speech using deep learning.  
  
@@ -21,14 +22,14 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 
 <br>
 
-# PUBLICATION
+## PUBLICATION
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses.
 [How to write book with mark down.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
 
 <br>
 
-# GETTING HELP
+## GETTING HELP
 [Stack Overflow](https://stackoverflow.com/)
 [Cross Validated](https://stats.stackexchange.com/)
 [Coursera](https://www.coursera.org)
