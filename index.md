@@ -1,2 +1,3 @@
 # Road to Data Science
-[Toolbox Index](collection/toolbox.md)
+[Toolbox](collection/toolbox.md)  
+[Blogs](collection/blogs.md)
