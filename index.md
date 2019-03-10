@@ -8,6 +8,8 @@
 [Events](collection/events.md)  
 [Products](collection/products.md)  
 
+<br>
+
 ### My Summary
 [Data Science - What & Why]()  
 [Data Science - How]()
