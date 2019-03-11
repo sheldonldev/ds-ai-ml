@@ -20,7 +20,7 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 [Download RStudio](https://www.rstudio.com/products/rstudio/download/)  
 [bioconductor (For bioinformatics)](https://www.bioconductor.org/)  
 
-**README**
+**README**  
 [RStudio Tutor (PDF)](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)  
 [R packages (Book)](http://r-pkgs.had.co.nz/)  
 [R for data science](https://r4ds.had.co.nz/)
@@ -39,7 +39,7 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
 **README**  
 [How to Setup GitHub Pages (2018) | Data Science Portfolio (YouTube)](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s)  
-[YAML(Wiki)](https://en.wikipedia.org/wiki/YAML)
+[YAML(Wiki)](https://en.wikipedia.org/wiki/YAML)  
 [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
 <br>
@@ -49,7 +49,7 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 Turn text into lifelike speech using deep learning.  
  
 [R Markdown](https://rmarkdown.rstudio.com/)  
-Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  
+Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  See **README** below.
 
 [Google Slides](https://www.google.com/slides/about/) `**`    
 Create, edit, collaborate, and present wherever you are.  
@@ -67,7 +67,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 
 ### PUBLICATION `**`
 [Leanpub](https://leanpub.com/)  
-Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses.  
+Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below. 
 
 **README:**  
 [How to write book with mark down.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
