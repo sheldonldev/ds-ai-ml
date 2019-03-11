@@ -14,6 +14,6 @@
 
 <br>
 
-### My Summary
+### My Notes
 [Data Science - What & Why]()  
 [Data Science - How]()
