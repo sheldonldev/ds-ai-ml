@@ -1,8 +1,14 @@
-[BACK](https://tane-rs.github.io/road-to-data-science/)
+[BACK](../road-to-data-science/)
 
 <br>
 
-## CELEBRITIES
+## SIBSCRIPTION
+
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+<br>
+
+### CELEBRITIES
 
 [Simply Statistics](https://simplystatistics.org/)  
 A statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek. 

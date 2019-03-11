@@ -1,4 +1,4 @@
-[BACK](https://tane-rs.github.io/road-to-data-science/)
+[BACK](../road-to-data-science/)
 
 <br>
 
@@ -6,11 +6,13 @@
 
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
+<br>
+
 **If there is a `**` after the item, means its suitable for all users, not only for data science. Actually, it is worth to learn all of these tools for everybody.**  
 
 <br>
 
-### EDITOR`**`  
+### EDITOR `**`  
 Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Pycharm`, `Notepad++`...  
 
 ### PROGRAMMING
@@ -25,15 +27,15 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 
 <br>
 
-### VIRSION CONTROL`**`
+### VIRSION CONTROL `**`
 [GitHub](https://github.com/)  
 [Git](https://git-scm.com/download)  
 
 <br>
 
-### HOLD A BLOG`**`
-Use `Git` and `GitHub` which is mentioned above.  
-[jekyll](https://jekyllrb.com/)  
+### HOLD A BLOG `**`
+Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.  
+Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
 **README**  
 [How to Setup GitHub Pages (2018) | Data Science Portfolio (YouTube)](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s)  
@@ -43,13 +45,13 @@ Use `Git` and `GitHub` which is mentioned above.
 <br>
 
 ### PRESENTATION
-[Amazon Polly](https://aws.amazon.com/polly/)`**`  
+[Amazon Polly](https://aws.amazon.com/polly/) `**`  
 Turn text into lifelike speech using deep learning.  
  
 [R Markdown](https://rmarkdown.rstudio.com/)  
 Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  
 
-[Google Slides](https://www.google.com/slides/about/)`**`    
+[Google Slides](https://www.google.com/slides/about/) `**`    
 Create, edit, collaborate, and present wherever you are.  
 
 [ari - The Automated R Instructor](https://www.coursera.org/learn/data-scientists-tools/lecture/enUSz/why-automated-videos) & [didactr Package](https://github.com/muschellij2/didactr)   
@@ -63,7 +65,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 
 <br>
 
-### PUBLICATION`**`
+### PUBLICATION `**`
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses.  
 
@@ -72,7 +74,7 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 
 <br>
 
-### GETTING HELP`**`
+### GETTING HELP `**`
 [Stack Overflow](https://stackoverflow.com/)  
 [Cross Validated](https://stats.stackexchange.com/)  
 

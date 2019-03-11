@@ -1,8 +1,14 @@
-[BACK](https://tane-rs.github.io/road-to-data-science/)
+[BACK](../road-to-data-science/)
 
 <br>
 
-## EXAMPLES
+## PROJECTS
+
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+<br>
+
+### EXAMPLES
 [Poison Baby Name](https://github.com/hilaryparker)    
 [Text analysis of Trump's tweets ](http://varianceexplained.org/r/trump-tweets/)
 [Where to live in the US](https://masalmon.eu/2017/11/16/wheretoliveus/)  
