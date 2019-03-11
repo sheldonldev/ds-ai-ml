@@ -9,8 +9,8 @@
 [Blogs](collection/blogs.md)  
 [Events](collection/events.md)  
 [Products](collection/products.md)  
-[Projects](collection/projects.md)
-[Curriculum](collection/curriculum.md)
+[Projects](collection/projects.md)  
+[Curriculum](collection/curriculum.md)  
 
 <br>
 
