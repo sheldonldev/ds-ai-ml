@@ -13,4 +13,4 @@
 ### My Notes
 [Data Science - What & Why]()  
 [Data Science - How]()  
-[Programming with R](my-note/programmint-with-R.md)  
+[Programming with R](my-note/programming-with-R.md)  
