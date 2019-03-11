@@ -17,7 +17,7 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 **README**  
 [RStudio Tutor](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) (PDF)  
 [R packages](http://r-pkgs.had.co.nz/) (Book)  
-[R for data science](https://r4ds.had.co.nz/)
+[R for data science](https://r4ds.had.co.nz/) (Book)
 
 ### VIRSION CONTROL `**`
 [GitHub](https://github.com/)  
