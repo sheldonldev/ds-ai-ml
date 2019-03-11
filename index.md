@@ -6,11 +6,11 @@
 
 ### Collection
 [Toolbox](collection/toolbox.md)   
-[Blogs](collection/blogs.md)  
+[Curriculum](collection/curriculum.md)  
+[Subscription](collection/subscription.md)  
 [Events](collection/events.md)  
 [Products](collection/products.md)  
 [Projects](collection/projects.md)  
-[Curriculum](collection/curriculum.md)  
 
 <br>
 
