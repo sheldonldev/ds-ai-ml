@@ -12,7 +12,7 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 ### PROGRAMMING
 [Download R](https://cran.r-project.org/)  
 [Download RStudio](https://www.rstudio.com/products/rstudio/download/)  
-[bioconductor](https://www.bioconductor.org/) (For bioinformatics)  
+[Bioconductor](https://www.bioconductor.org/) (For bioinformatics)  
 
 **README**  
 [RStudio Tutor](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) (PDF)  
