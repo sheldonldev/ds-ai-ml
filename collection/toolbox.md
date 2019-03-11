@@ -1,16 +1,10 @@
 [BACK](../)
 
-<br>
-
 ## TOOLBOX
-
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
-
 <br>
 
 **If there is a `**` after the item, means its suitable for all users, not only for data science. Actually, it is worth to learn all of these tools for everybody.**  
-
-<br>
 
 ### EDITOR `**`  
 Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Pycharm`, `Notepad++`...  
@@ -25,13 +19,9 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 [R packages](http://r-pkgs.had.co.nz/) (Book)  
 [R for data science](https://r4ds.had.co.nz/)
 
-<br>
-
 ### VIRSION CONTROL `**`
 [GitHub](https://github.com/)  
 [Git](https://git-scm.com/download)  
-
-<br>
 
 ### HOLD A BLOG `**`
 Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.  
@@ -41,8 +31,6 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 [How to Setup GitHub Pages (2018) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s) (YouTube)    
 [YAML](https://en.wikipedia.org/wiki/YAML) (Wiki)   
 [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
-
-<br>
 
 ### PRESENTATION
 [Amazon Polly](https://aws.amazon.com/polly/) `**`  
@@ -63,16 +51,12 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
 [R Markdown Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)  
 
-<br>
-
 ### PUBLICATION `**`
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below. 
 
 **README:**  
 [How to write book with mark down.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
-
-<br>
 
 ### GETTING HELP `**`
 [Stack Overflow](https://stackoverflow.com/)  
