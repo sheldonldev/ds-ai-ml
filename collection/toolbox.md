@@ -18,11 +18,11 @@ Any enditor wich can edit `.md` is OK. Such as `VS Code`, `Sublime`, `Atom`, `Py
 ### PROGRAMMING
 [Download R](https://cran.r-project.org/)  
 [Download RStudio](https://www.rstudio.com/products/rstudio/download/)  
-[bioconductor (For bioinformatics)](https://www.bioconductor.org/)  
+[bioconductor](https://www.bioconductor.org/) (For bioinformatics)  
 
 **README**  
-[RStudio Tutor (PDF)](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)  
-[R packages (Book)](http://r-pkgs.had.co.nz/)  
+[RStudio Tutor](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) (PDF)  
+[R packages](http://r-pkgs.had.co.nz/) (Book)  
 [R for data science](https://r4ds.had.co.nz/)
 
 <br>
@@ -38,8 +38,8 @@ Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which 
 Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
 **README**  
-[How to Setup GitHub Pages (2018) | Data Science Portfolio (YouTube)](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s)  
-[YAML(Wiki)](https://en.wikipedia.org/wiki/YAML)  
+[How to Setup GitHub Pages (2018) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s) (YouTube)    
+[YAML](https://en.wikipedia.org/wiki/YAML) (Wiki)   
 [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
 <br>
@@ -80,7 +80,7 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 
 **README:**  
 [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)  
-[How to Get Help (YouTube)](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be)  
+[How to Get Help](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be) (YouTube)  
 
 
 
