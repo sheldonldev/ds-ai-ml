@@ -56,7 +56,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below. 
 
 **README:**  
-[How to write book with mark down.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
+[How to write book with markdown.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
 
 ### GETTING HELP `**`
 [Stack Overflow](https://stackoverflow.com/)  
