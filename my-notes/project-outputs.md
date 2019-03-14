@@ -27,7 +27,7 @@ You should create a culture of using these tools, or similar ones, in your organ
 More for presentation:
 - For R, there's slidify and rStudio's presenter
 
-## Interactive web pages
+## Interactive Web Pages
 
 - Good ease of use / design  
     - modern tools allow data scientists to prototype apps and interactive web pages quickly and relatively easily.
@@ -44,5 +44,5 @@ More for presentation:
     - Tools such as git and github make version control easy and are in the standard toolkit of data scientists.
 
 
-
+## APP
 
