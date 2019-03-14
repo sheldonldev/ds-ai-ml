@@ -7,18 +7,18 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 **If there is a `**` after the item, means its suitable for all users, not only for data science. Actually, it is worth to learn all of these tools for everybody.**  
 
 ## KERNEL
-### VIRSION CONTROL `**`
+### Version Control `**`
 
 [GitHub](https://github.com/)  
 [Git](https://git-scm.com/download)  
 
-### DATA STORAGE
+### Data Storage
 [PostgreSQL]
 
-### SERVICES
+### Services
 [Amazon Web Services]
 
-### PROGRAMMING ENVIRENMENT
+### Programming Environment
 [Downloa Anaconda for Python programming envirenment]() Install following tools in anaconda.
     - Jupyter lab
     - RStudio
@@ -35,16 +35,16 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 [R for data science](https://r4ds.had.co.nz/) (Book)
 
-### FRAMEWORK
+### Frameworks
 [Hdoop]()
 [Spark]()
 
 And both of these are basically ways to analyze, at a very large scale, data sets. Now you can do interactive analysis with both of these, particularly with Spark. But it's a little bit more complicated. It's a little bit more expensive, especially if you're applying it to large sets of data. So it's very typical in the data science process to take the database, pull out a small sub sample of the data, process it and analyse it in R or Python and then go back to the engineering team and scale it back up with Hadoop, or Spark, or other tools like that.
 
-### COMMUNICATION
+### Communication
 [Slack]()
 
-### GETTING HELP `**`
+### Getting Help `**`
 
 Despide Search Engine:
 
@@ -57,7 +57,7 @@ Despide Search Engine:
 
 [How to Get Help](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be) (YouTube) 
 
-### DOCUMENTS
+### Documents
 [R Markdown](https://rmarkdown.rstudio.com/)  
 Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  See **README** below.
 
@@ -70,7 +70,7 @@ Turn your analyses into high quality documents, reports, presentations and dashb
 
 [Shiny]()
 
-### PRESENTATION
+### Presentation
 
 [Amazon Polly](https://aws.amazon.com/polly/) `**`  
 Turn text into lifelike speech using deep learning.  
@@ -87,7 +87,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
  
 
-### PUBLICATION WITH MARKDWON`**`
+### Publication `**`
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below.   
 [Lulu]()
@@ -95,7 +95,7 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 **README:**  
 [How to write books with markdown.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
 
-### HOLD A BLOG `**`
+### Hold a blog `**`
 Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.   
 Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
@@ -105,7 +105,7 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
 ## SUPPLEMENTATION
-### VISUALIZATION RESORSES
+### Visulization Resources
 
 [Wikimedia common]()  
 [Coursera-DataMining-DataVisualizaion-W1-tool](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)  

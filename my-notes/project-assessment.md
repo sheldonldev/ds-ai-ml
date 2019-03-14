@@ -4,7 +4,7 @@
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
-## List of hallmarks of success
+## Hallmarks of Success
 
 1. New knowledge is created.
     - doesn't necessarily mean that it's important.
@@ -18,7 +18,7 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 4. It is learned that the data can't answer the question being asked of it.
 
-## Negative outcomes
+## Negative Outcomes
 
 1. Decisions being made that disregard clear evidence from the data.
 
