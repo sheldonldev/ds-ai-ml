@@ -20,7 +20,7 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
     - start to develop a sketch of the solution to get a sense of kinda what it'll look like. (formal modeling, statistical testing...)
     - test with different dataset
 
-   Repeat 1 -> 3 
+   May need repeating above.
 
 4. Formal Modeling
     - specifically write down what questions you're asking, what parameters you're trying to estimate.
