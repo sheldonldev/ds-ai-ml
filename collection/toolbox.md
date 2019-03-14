@@ -1,17 +1,17 @@
 [BACK](../)
 
-## TOOLBOX
+# TOOLBOX
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
 **If there is a `**` after the item, means its suitable for all users, not only for data science. Actually, it is worth to learn all of these tools for everybody.**  
 
 
-### VIRSION CONTROL `**`
+## VIRSION CONTROL `**`
 [GitHub](https://github.com/)  
 [Git](https://git-scm.com/download)  
 
-### HOLD A BLOG `**`
+## HOLD A BLOG `**`
 Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.   
 Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
@@ -20,7 +20,7 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 [YAML](https://en.wikipedia.org/wiki/YAML) (Wiki)   
 [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
-### PROGRAMMING EVIRENMENT
+## PROGRAMMING EVIRENMENT
 [Anaconda]() Install following tools in anaconda.
     - Jupyter lab
     - RStudio
@@ -37,7 +37,7 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
 [R for data science](https://r4ds.had.co.nz/) (Book)
 
-### PRESENTATION WITH AI
+## PRESENTATION WITH AI
 [Amazon Polly](https://aws.amazon.com/polly/) `**`  
 Turn text into lifelike speech using deep learning.  
  
@@ -56,7 +56,7 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
 [R Markdown Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)  
 
-### PUBLICATION WITH MARKDWON`**`
+## PUBLICATION WITH MARKDWON`**`
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below.   
 [Lulu]()
@@ -64,7 +64,7 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 **README:**  
 [How to write books with markdown.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
 
-### GETTING HELP `**`
+## GETTING HELP `**`
 [Stack Overflow](https://stackoverflow.com/)  
 
 [Cross Validated](https://stats.stackexchange.com/)  
@@ -74,7 +74,7 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 
 [How to Get Help](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be) (YouTube)  
 
-### VISUALIZATION RESORSES
+## VISUALIZATION RESORSES
 [Wikimedia common]()  
 [Coursera-DataMining-DataVisualizaion-W1-tool](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)  
 [Coursera-DataMining-DataVisualizaion-W1-books](https://www.coursera.org/learn/datavisualization/lecture/yA1Ci/1-1-1-some-books-on-data-visualization)  
