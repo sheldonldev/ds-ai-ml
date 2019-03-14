@@ -19,10 +19,10 @@
 
 [Programming with R](my-notes/programming-with-R.md)   
   
-[Project - Prejudge](my-notes/prject-prejudge.md)  
-[Project - Process](my-notes/prject-process.md)  
-[Project - Outputs](my-notes/prject-outputs.md)   
-[Project - Assessment](my-notes/prject-assessment.md)
+[Project - Prejudge](my-notes/project-prejudge.md)  
+[Project - Process](my-notes/project-process.md)  
+[Project - Outputs](my-notes/project-outputs.md)   
+[Project - Assessment](my-notes/project-assessment.md)
 
 [Software Engineering](my-notes/software-engineering.md)  
 
