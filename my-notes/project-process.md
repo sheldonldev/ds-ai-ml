@@ -4,8 +4,7 @@
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
-0. Data -> Exploratory data analysis
-        -> Hypothesis generating 
+0. Data -> Exploratory data analysis -> Hypothesis generating 
 
 1. Question
     - ask the question and specify what is it that you're interested in learning from data.
