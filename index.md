@@ -20,7 +20,7 @@
 [Programming with R](my-notes/programming-with-R.md)   
   
 [Project - Prejudge](my-notes/prject-prejudge.md)  
-[Project - Process](my-notes/prject-process.md)
+[Project - Process](my-notes/prject-process.md)  
 [Project - Outputs](my-notes/prject-outputs.md)   
 [Project - Assessment](my-notes/prject-assessment.md)
 
