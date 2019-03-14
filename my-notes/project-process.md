@@ -6,7 +6,7 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 0. Data -> Exploratory data analysis -> Hypothesis generating 
 
-1. Question
+1. Hypothesis/Question
     - ask the question and specify what is it that you're interested in learning from data.
     - specifying the question and refining it over time will guide you the data that you obtain and the [type of of analysis](analysit-types.md/) that you do.
 
