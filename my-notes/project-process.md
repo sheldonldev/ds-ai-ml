@@ -4,17 +4,6 @@
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
-## Tell hype from hope
-Ask yourselves:
-- what problem have you solved that was worth solving, where you knew all of th given information inadvance
-- where you didn't have a surplus of information and have to filter it out, or you didn't hav insufficient information and have to go find some?
-
-Ask others or self:
-1. What is the question you are trying to anser with data?
-2. Do you have the data to answer that question?
-3. Can we get
-
-
 0. Data -> Exploratory data analysis
         -> Hypothesis generating 
 
