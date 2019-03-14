@@ -1,0 +1,26 @@
+[BACK](../)
+
+# When Do You Need Data Science
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+<br>
+
+## As a very small team - Data Engineer
+When you're an early stage company, or you're just one person with a very small team:
+
+- **Build out the infrastructure for storing the data.**
+- **Hire data engineer** just making sure the machine is running, making sure the data is getting collected, stored and so fourth.
+
+## As a mid size orgnization - Data Scientist & Data Engineer
+Hopefully you've got the basic infrastructure in place. 
+
+- **Bring on board real data scientists to use the data**, pull it out of the database, run some experiments, build machine learning algorithms, analyze the data to see if you can identify any patterns or trends in behavior that you care about.
+- To implementing these data science ideas and products,that would be **turning back the data engineering team.** 
+- **Infrastructure concerns**, because you have a large set of data. You need to be secure about it, you need to have a database, you need to be able to scale it.
+
+## As a large orgnization - Data Science Management
+You now have a data infrastructure, you might have a data science team that's running experiments. You may be using those experiments to make decisions. 
+
+- **Data science manager** role becomes more involved. You might be coordinating multiple teams of data scientists working on different projects. You might have a team that works exclusively on building machine learning projects. You might have another team that works exclusively on running experiments and inferring what you can from those experiments. 
+- **Someone has to be in charge of coordinating those activities** making sure they're connected to the right people within your organization. Whether that's the marketing team, the business group or whoever else that you're collaborating with, you have to be able to connect those people. 
+
+At that scale the full data science infrastructure is in place.

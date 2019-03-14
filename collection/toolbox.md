@@ -6,22 +6,20 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 **If there is a `**` after the item, means its suitable for all users, not only for data science. Actually, it is worth to learn all of these tools for everybody.**  
 
+## KERNEL
+### VIRSION CONTROL `**`
 
-## VIRSION CONTROL `**`
 [GitHub](https://github.com/)  
 [Git](https://git-scm.com/download)  
 
-## HOLD A BLOG `**`
-Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.   
-Use [jekyll](https://jekyllrb.com/) and see **README** below.
+### DATA STORAGE
+[PostgreSQL]
 
-**README**  
-[How to Setup GitHub Pages (2018) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s) (YouTube)    
-[YAML](https://en.wikipedia.org/wiki/YAML) (Wiki)   
-[Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
+### SERVICES
+[Amazon Web Services]
 
-## PROGRAMMING EVIRENMENT
-[Anaconda]() Install following tools in anaconda.
+### PROGRAMMING ENVIRENMENT
+[Downloa Anaconda for Python programming envirenment]() Install following tools in anaconda.
     - Jupyter lab
     - RStudio
     - VS Code
@@ -37,13 +35,46 @@ Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
 [R for data science](https://r4ds.had.co.nz/) (Book)
 
-## PRESENTATION WITH AI
-[Amazon Polly](https://aws.amazon.com/polly/) `**`  
-Turn text into lifelike speech using deep learning.  
- 
+### FRAMEWORK
+[Hdoop]()
+[Spark]()
+
+And both of these are basically ways to analyze, at a very large scale, data sets. Now you can do interactive analysis with both of these, particularly with Spark. But it's a little bit more complicated. It's a little bit more expensive, especially if you're applying it to large sets of data. So it's very typical in the data science process to take the database, pull out a small sub sample of the data, process it and analyse it in R or Python and then go back to the engineering team and scale it back up with Hadoop, or Spark, or other tools like that.
+
+### COMMUNICATION
+[Slack]()
+
+### GETTING HELP `**`
+
+Despide Search Engine:
+
+[Stack Overflow](https://stackoverflow.com/)  
+
+[Cross Validated](https://stats.stackexchange.com/)  
+
+**README:**  
+[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)  
+
+[How to Get Help](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be) (YouTube) 
+
+### DOCUMENTS
 [R Markdown](https://rmarkdown.rstudio.com/)  
 Turn your analyses into high quality documents, reports, presentations and dashboards. **Much powerful than markdown.**  See **README** below.
 
+[IPython notebook]()
+
+**README**
+[R Markdown Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) 
+
+### VISUALIZATION
+
+[Shiny]()
+
+### PRESENTATION
+
+[Amazon Polly](https://aws.amazon.com/polly/) `**`  
+Turn text into lifelike speech using deep learning.  
+ 
 [Google Slides](https://www.google.com/slides/about/) `**`    
 Create, edit, collaborate, and present wherever you are.  
 
@@ -54,9 +85,9 @@ Didactr is to provide leverages the ‘ari’ package and other tools to create 
 **README:**  
 [The future of education is plain text](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/)  
 [Why My MOOC is Not Built on Video](https://www.class-central.com/report/why-my-mooc-is-not-built-on-video/)  
-[R Markdown Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)  
+ 
 
-## PUBLICATION WITH MARKDWON`**`
+### PUBLICATION WITH MARKDWON`**`
 [Leanpub](https://leanpub.com/)  
 Authors, publishers and universities use Leanpub to create, publish and sell amazing in-progress and completed ebooks and online courses. See **README** below.   
 [Lulu]()
@@ -64,17 +95,18 @@ Authors, publishers and universities use Leanpub to create, publish and sell ama
 **README:**  
 [How to write books with markdown.](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises)  
 
-## GETTING HELP `**`
-[Stack Overflow](https://stackoverflow.com/)  
+### HOLD A BLOG `**`
+Use [GitHub](https://github.com/) and [Git](https://git-scm.com/download) which is mentioned above.   
+Use [jekyll](https://jekyllrb.com/) and see **README** below.
 
-[Cross Validated](https://stats.stackexchange.com/)  
+**README**  
+[How to Setup GitHub Pages (2018) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=329s) (YouTube)    
+[YAML](https://en.wikipedia.org/wiki/YAML) (Wiki)   
+[Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
-**README:**  
-[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)  
+## SUPPLEMENTATION
+### VISUALIZATION RESORSES
 
-[How to Get Help](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be) (YouTube)  
-
-## VISUALIZATION RESORSES
 [Wikimedia common]()  
 [Coursera-DataMining-DataVisualizaion-W1-tool](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)  
 [Coursera-DataMining-DataVisualizaion-W1-books](https://www.coursera.org/learn/datavisualization/lecture/yA1Ci/1-1-1-some-books-on-data-visualization)  

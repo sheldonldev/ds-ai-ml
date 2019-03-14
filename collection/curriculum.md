@@ -5,7 +5,10 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
 ## KERNEL
-If you feel difficult to understand some concept this part, see **SUPPORT** course first.  
+If you feel difficult to understand some concept this part, see **SUPPORT** course first.
+
+### INTRODUCTION
+[Executive Data Science Specialization - A Crash Course in Data Science](https://www.coursera.org/learn/data-science-course/home/welcome)
 
 ### PROGRAMMING
 **R**  

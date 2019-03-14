@@ -1,0 +1,48 @@
+[BACK](../)
+
+# PROJECT OUTPUTS
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+<br>
+
+## Reports / Presentations
+
+- Be clearly written
+- Involve a narrative around the data
+- Discuss the creation of the analytic dataset
+- Have concise conclusions
+- Omit unnecessary details
+- Reproducible
+
+Reproducible reports have mechanisms under the hood to recreate the data analysis. The number of benefits of report writing in this fashion are many. They include: 
+- getting the data scientist to think about the output of the process (since the code is embedded in the eventual output)
+- very clear documentation that extends beyond code commenting
+- automation of the report generation process and then, of course, reproducibility
+
+The main tools for producing reproducible reports
+- kntir
+- ipython notebooks. 
+
+You should create a culture of using these tools, or similar ones, in your organization, as they will dramatically improve reproducibility.
+
+More for presentation:
+- For R, there's slidify and rStudio's presenter
+
+## Interactive web pages
+
+- Good ease of use / design  
+    - modern tools allow data scientists to prototype apps and interactive web pages quickly and relatively easily.
+
+- Good documentation  
+    - Good documentation is mostly effort, though the same caveats apply with design.
+
+- Code commented  
+    - is easy to return to for new employees or the original coder returning to the project after a long hiatus. 
+
+- Code version controlled  
+    - data scientists will be able to return to any checked in version of the project. 
+    - The comments are useful for documenting the evolution of the project as well. 
+    - Tools such as git and github make version control easy and are in the standard toolkit of data scientists.
+
+
+
+
