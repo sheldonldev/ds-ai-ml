@@ -26,6 +26,6 @@ A Senior Data Analyst at Etsy, where I help product teams with data-informed dev
 [Sharla Gelfand](https://sharla.party/)  
 
 ### SUGGESTIONS
-[How to Share Data](https://github.com/jtleek/datasharing)
+[How to Share Data](https://github.com/jtleek/datasharing)  
 [Retraction Watch](https://retractionwatch.com/)  
  Identifying papers that have been retracted, or removed from the literature, as a result of poor scientific practices. And sometimes, those poor practices are a result of poor experimental design and analysis.
