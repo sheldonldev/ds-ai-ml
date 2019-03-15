@@ -16,6 +16,7 @@
 ### My Notes
 [Analysis - Types](my-notes/analysis-design.md)  
 [Analysis - Design](my-notes/analysis-design.md)  
+[Analysis - Epicycles](my-notes/analysis-epicycles.md) 
 
 [Programming with R](my-notes/programming-with-R.md)   
   
