@@ -1,10 +1,10 @@
 [BACK](../)
 
-# What Worth Doing
+# PREJUDGE
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
-## Tell Hype from Hope
+## Tell Hype from Hope - What Worth Doing
 There's been a lot of hype around these areas. We're sort of just now coming out into this sort of productive plateau, where people actually know what to do with data. It's a perfect time to start managing data scientist teams, managing expectations in a way that's really clear, and really focused.
 
 Ask yourselves questions:

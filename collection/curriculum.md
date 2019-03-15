@@ -7,14 +7,14 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 ## KERNEL
 If you feel difficult to understand some concept this part, see **SUPPORT** course first.
 
-### INTRODUCTION
+### Introduction
 [Executive Data Science Specialization - A Crash Course in Data Science](https://www.coursera.org/learn/data-science-course/home/welcome)
 
-### PROGRAMMING
+### Programming
 **R**  
 [R Tutor - swirl](https://www.coursera.org/learn/r-programming/supplement/rAri5/practical-r-exercises-in-swirl-part-1)  
 
-### DATA VISUALIZATION
+### Data Visualization
 
 **Whith Python**
 [IBM Data Science Professional Certificate - Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/home/week/1)  
