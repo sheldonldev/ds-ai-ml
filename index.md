@@ -7,7 +7,7 @@
 ### Collection
 [Curriculum](collection/curriculum.md)  
 [Events](collection/events.md)  
-[Methods](collection/methods.md)
+[Methods](collection/methods.md)  
 [Subscription](collection/subscription.md)  
 [Products](collection/products.md)  
 [Projects](collection/projects.md)  
