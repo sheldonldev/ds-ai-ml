@@ -4,6 +4,28 @@
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
+## Data science methodology
+From [IBM data science professional certificate](https://www.coursera.org/learn/data-science-methodology/lecture/lMNmc/welcome)
+
+1. From Problem to Approach and from Requirements to Collection
+- Business Understanding  
+- Analytic Approach
+- Data Requirements
+- Data Collection
+
+2. From Understanding to Preparation and from Modeling to Evaluation
+- Data Understanding
+- Data Preparation
+- Modeling
+- Evaluation
+
+3. From Deployment to Feedback
+- Deployment
+- Feedback
+
+## In General
+From [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science)
+
 - Data -> Exploratory data analysis -> Hypothesis generating
 
 **Core**
@@ -18,12 +40,12 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
         - go out and get it
         - someone will provide
 
-- Exploratory data analysis
+- Exploratory data analysis (EDA)
     - if the data that you have is suitable for ansering the question. (enough data? missing values? need to collect more data? ...)
     - start to develop a sketch of the solution to get a sense of kinda what it'll look like. (formal modeling, statistical testing...)
     - test with different dataset
 
-   May need repeating above.
+May need repeating above.
 
 - Formal Modeling
     - specifically write down what questions you're asking, what parameters you're trying to estimate.
@@ -42,6 +64,38 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 - Dicision & Action
 
-
 For each of the core process of a project, it is critical that you engage in [analysis-epicycles](/analysis-epicycles.md).
+
+## Characteristics of a Good Question
+- Of interest to your audience
+    - Collaborators/Boss/Leadership
+    - Scientific Community
+    - Funders/Investors
+    - General Public/Customers
+
+- Not already answered
+
+- Plausible
+    
+- Answerable
+
+
+
+
+## EDA
+### Goals of EDA
+1. Do you have the right data?
+2. Do you need to get more?
+3. Do you need to refine your question?
+
+### How
+1. Read in the data, check the packaging.
+    - check rows/columns
+    - check for known or key variables
+    - check all metadata or codebooks 
+
+2. Check the edges.
+
+3. Always be checking your Ns.
+    - count the number of subjects,
 
