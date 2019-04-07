@@ -5,13 +5,16 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 <br>
 
 ## Data science methodology
-From [IBM data science professional certificate](https://www.coursera.org/learn/data-science-methodology/lecture/lMNmc/welcome)
+From [IBM data science professional certificate - data science methodology](https://www.coursera.org/learn/data-science-methodology/lecture/lMNmc/welcome) & [Executive Data Science Specialization- S1 & S2]
+
+
 
 1. From Problem to Approach and from Requirements to Collection
 - Business Understanding  
 - Analytic Approach
 - Data Requirements
 - Data Collection
+
 
 2. From Understanding to Preparation and from Modeling to Evaluation
 - Data Understanding
