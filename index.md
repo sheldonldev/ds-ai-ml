@@ -30,3 +30,5 @@
 [Team - When](my-notes/team-when.md)  
 [Team - Who](my-notes/team-who.md)  
 
+### Coding
+[python basis](eveday-coding/190331-IBM-DS-py-basis.ipynb)
