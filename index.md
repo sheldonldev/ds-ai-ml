@@ -28,5 +28,5 @@
 [Software Engineering](my-notes/software-engineering.md)  
 
 [Team - When](my-notes/team-when.md)  
-[Team - Who](my-notes/team-who.md)  
+[Team - Who](my-notes/team-who.md)
 
