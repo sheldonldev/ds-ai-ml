@@ -1,0 +1,82 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+  <!-- From Midnight Theme -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <!-- Bootswath CSS, Fontawesome Style, Bootstrap Scripts -->
+  <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <!-- Tipue Search Scripts and Stylesheets -->
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ '/assets/tipuesearch/tipuesearch_content.js' | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ '/assets/tipuesearch/css/tipuesearch.css' | relative_url }}">
+    <script src="{{ '/assets/tipuesearch/tipuesearch_set.js' | relative_url }}"></script>
+    <script src="{{ '/assets/tipuesearch/tipuesearch.min.js' | relative_url }}"></script>
+  {% endif %}
+
+  <style>
+    * { margin: 0; padding: 0; }
+    body { padding-top: 65px; font-size: large; margin: 0 auto; padding: 0 auto; align-items: center; }
+    h1, h2, h3, h4, h5, h6 { color: #839496; }
+    h1, h2 { text-align: center; }
+		h3 { font-size: large; }
+		table { width: 480; margin: 20px auto; border-collapse: collapse; table-layout: fixed; border-bottom: 0; }
+    tr { border-bottom: 0; }
+    td { padding: 0; text-align: center; border-bottom: 0; }
+    @media print {
+      table { border: 0 !important; } /* remove border */
+      tr { border: 0 !important; }
+      td { border: 0 !important; }
+    }
+    /* Navbar Style */
+    #navbar { margin: 0 auto; padding: 0 auto; border-bottom: 1px solid #B58900; }
+    .navbar-brand { margin: 0 30px; }
+    .navbar-collapse ul { align-items: center; border-bottom: 5px; }
+    .navbar-collapse li { margin: 0 5px; }
+    .navbar-collapse.in { display: block !important;  left: auto !important; right: 0px; } /* keep collaps open till click, and float right */
+		.navbar-collapse button { margin: 10px 30px; padding: 0 10px; }
+		.dropdown {text-align: center !important; align-self:center !important; align-items: center !important;}
+		.dropdown-menu { text-align: center !important; align-self:center !important; }
+    /* Site Title Style */
+    #title { margin: 0; padding: 0 auto; text-align: center; }
+    #title h1 { font-size: xx-large; }
+    /* Content Wrappers */
+    .wrapper { max-width: 960px;  margin: 10px auto; padding: 0 auto; align-items: center; }
+    .wrapper section { max-width: 960px; margin: 0 auto; padding: 0 auto; align-items: center; }
+    section form {align-items: center;}
+    /* Page Title */
+    .title { align-items: center; }
+    /* Dividing Line */
+    hr { border: 0; border-bottom: 1px dotted #B58900; }
+    /* Tipue Search Form */
+		form {margin: 0 auto; align-self: center; text-align: center; align-items: center;}
+		#tipue_search_input { max-width: 480px; display: inline-block; margin: 0 auto; border-radius: 0.25rem; border: 0; align-items: center; }
+		.tipue-search button { display: inline-block; margin: 0 auto; }
+		/* If Want to Hide Spinner */
+		/* .tipue_search_spinner { width: 0; height: 0;} */
+		/* If Want to Show Spinner */
+		.tipue_search_spinner { margin: 0 auto; align-self: center; text-align: center; align-items: center;}
+    /* Tipue Search Results */
+    #tipue_search_content { margin: 0 auto; max-width: 720px; }
+		#tipue_search_warning { color: #D33682; }
+    #tipue_search_results_count { color: #D33682; }
+    .tipue_search_content_text { color: #839496; }
+		.tipue_search_content_bold { color: #B58900; }
+		/* Tipue Search Foot */
+		#tipue_search_foot { display: flex; padding-left: 0; list-style: none; border-radius: 0.25rem; }
+		#tipue_search_foot_boxes ul {margin-top: 0; margin-bottom: 1rem; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; padding-inline-start: 40px;}
+		/* #tipue_search_foot_boxes li {display: list-item;} */
+		#tipue_search_foot_boxes li a {text-decoration: none; padding:0.5rem 0.75rem; background-color: transparent; color: #2AA198; border: 1px solid #073642; }
+		#tipue_search_foot_boxes li.current {background-color: #073642; color: rgba(255,255,255,0.75); border-color: #073642; }
+		#tipue_search_foot_boxes li a:hover {background: #073642}
+  </style>
+</head>

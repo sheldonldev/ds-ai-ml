@@ -1,0 +1,31 @@
+---
+layout: default
+title: Search
+description: "Search this site"
+permalink: /search/
+tipue_search_active: true
+exclude_from_search: true
+---
+
+<div class="wrapper">
+  <section>
+
+    <form class="form-group" action="{{ page.url | relative_url }}">
+      <input
+        class="form-control" type="text" placeholder="At least 3 characters..." 
+        name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
+      >
+      <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+    </form>
+
+    <!-- Tipue Search Results -->
+    <div id="tipue_search_content"></div>
+  </section>
+</div>
+<script>
+$(document).ready(function() {
+  $('#tipue_search_input').tipuesearch();
+});
+</script>
+
+

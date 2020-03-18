@@ -1,4 +1,12 @@
-title: TaneRS Blog
-description: >- # this means to ignore newlines until "baseurl:"
-  To Record & Share
-theme: jekyll-theme-hacker
+title: TaneRS doning DS, ML, DL, and AI
+description: >- 
+This site is used to record and share my DS, ML, DL, and AI learning.
+baseurl: "/road-to-data-science/"
+theme: jekyll-theme-midnight
+
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html]
