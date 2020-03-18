@@ -2,7 +2,7 @@ title: TaneRS doning DS, ML, DL, and AI
 description: >- 
 This site is used to record and share my DS, ML, DL, and AI learning.
 
-baseurl: "/road-to-data-science"
+baseurl: "/"
 theme: jekyll-theme-midnight
 
 # Search settings
