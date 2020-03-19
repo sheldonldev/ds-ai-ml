@@ -1,7 +1,7 @@
 ---
-layout: default
-tipue_search_active: true
+layout: page
 ---
+
 <div class="title">
   <h2>{{ page.title }}</h2>
   {% if page.author %}
@@ -22,10 +22,8 @@ tipue_search_active: true
 
 {{ content }}
 
-
 {%- if site.disqus.shortname -%}
   {%- include disqus_comments.html -%}
 {%- endif -%}
 
 <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>

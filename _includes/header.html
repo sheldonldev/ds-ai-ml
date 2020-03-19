@@ -1,0 +1,39 @@
+<header>
+  <!-- Navbar -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" id="navbar">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">TaneRS</a>
+    <div class="flex-grow-1"></div>
+    <!-- Toggler Nav Items-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse flex-grow-0" id="navbarColor02">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="https://tane-rs.github.io/">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://tane-rs.github.io/about/">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/tane-rs/"><i class="fab fa-github 3x"></i> Repos</a>
+        </li>
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Projects</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="https://tane-rs.github.io/meat_atlas/">Meat Atlas</a></li>
+            <!-- <li><a class="dropdown-item  active" href="https://tane-rs.github.io/road-to-data-science">DS M/DL AI<span class="sr-only">(current)</span></a></li>
+            <li><a class="dropdown-item" href="https://tane-rs.github.io/my-cisco-cert">CiscoCert</a></li> -->
+          </ul>
+        </li>
+        <!-- Tipue Search Page Link -->
+        <button type="button" class="btn btn-outline-secondary" >
+          <a href="{{ '/search/' | relative_url}}" style="color: inherit;">
+            <i class="fas fa-search"></i> Search within <b>DS M/DL AI</b>...
+          </a>
+        </button>
+      </ul>
+    </div>
+  </nav>
+</header>
